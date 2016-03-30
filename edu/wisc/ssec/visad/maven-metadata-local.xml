@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>edu.wisc.ssec</groupId>
+  <artifactId>visad</artifactId>
+  <versioning>
+    <versions>
+      <version>2.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20160330163659</lastUpdated>
+  </versioning>
+</metadata>
