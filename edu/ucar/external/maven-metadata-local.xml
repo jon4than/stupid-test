@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>edu.ucar</groupId>
+  <artifactId>external</artifactId>
+  <versioning>
+    <versions>
+      <version>5.2u1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20160330165509</lastUpdated>
+  </versioning>
+</metadata>
